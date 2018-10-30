@@ -189,6 +189,7 @@ def random_phrase():
                ############# No New Facts Below This Line ##########################
                'Adam set the record for most points in a season while missing the playoffs at a staggering 1643.9 earning him the Collin J Hennessey Sodium Chloride Award.'
                ]
+               
     text = [random.choice(phrases)]
     return '\n'.join(text)
 
