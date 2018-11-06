@@ -138,7 +138,7 @@ def random_phrase():
                'Alex won the East in 2017 with a 10-3 record.',
                'Adam won the West in 2017 with a 9-4 record.',
                ##Things that wont change
-               'Josh opened the 2017 season with a bang by setting the (at the time) league record in points in a single week at 181.3 only to be beaten in week 12 of that season by Keller.',
+               'Josh opened the 2017 season with a bang by setting the (at the time) league record in points in a single week at 181.3 only to be beaten in week 12 of that season by Keller. Josh would reclaim the scoring title in the next season with a whopping 202.7.',
                'Colin was removed from the Sweater Vest League for winning a championship in 2016.',
                'All Hail the Deyton was once known as the Sweater Vest League and has three unrecognized champions.',
                'The league was renamed from \'The Sweater Vest League\' to \'All Hail the Deyton\' prior to the 2016 season.',
@@ -151,8 +151,8 @@ def random_phrase():
                'In 2012 Alex became the first person to draft a QB in the first round by taking Matt Ryan with the first overall pick.',
                ##Head-to-Head Matchups
                     ##Adam and Derek
-                    'Adam is undefeated head-to-head against Derek in the modern era at a perfect 9-0.',
-                    'Adam leads Derek in scoring in their head-to-head matchups 1129.2 - 864.5 with an average margin of victory of 36.7125',
+                    'Adam leads his head-to-head against Derek in the modern era at 9-1.',
+                    'Adam leads Derek in scoring in their head-to-head matchups 1189.8 - 982.8.',
                     ##Kendall and Jamie
                     'Jamie leads the Married Couple Matchup at 3-2 in the modern era.',
                     'Jamie is 3-0 in the regular season against Kendall.',
@@ -164,8 +164,8 @@ def random_phrase():
                     'Alex leads Devon in scoring in their head-to-head matchups 947.4 - 838.5.',
                     ##Cody and Jamie
                     'In 2016 Cody lost a team name bet to Jamie and his franchise was renamed \'Cody Jinnette D.M.D\'.',
-                    'Jamie leads his head-to-head matchup with Cody 5-4.',
-                    'Cody leads head-to-head scoring against Jamie 1362.5 - 1222.5.',
+                    'Jamie and Cody are tied head-to-head at 5-5.',
+                    'Cody leads head-to-head scoring against Jamie 1482.4 - 1323.3.',
                ##Team names
                'Alex got his team name (Falcoholic) by combining his favorite team (the Falcons) with his favorite activity (being an alcoholic).',
                'Devon chose his name (Morningwood Lumber Company) becuase it\'s a dick joke.',
@@ -178,10 +178,10 @@ def random_phrase():
                ##Statistical records that may change
                'No team has won the \'Fab Five\' award for QB, RB, RB, WR, & WR slots all scoring at least 20 points each',
                'Jamie currently holds the record for fewest point in a season at 1222.1(2017). Ouch!',
-               'Keller currently owns the record for most points in a week at 192.9.',
+               'Josh currently owns the record for most points in a week at 202.7.',
                'Devon mustered a staggering 46.9 points in week 9 of 2016 to set the lowest point total ever in a single week.',
                'In week 12 of 2017 Keller set the record for largest win margin by absolutely decimating Derek 192.9 - 83.4. A win margin of +109.5.',
-               'Keller set the record for most points in a week in week 12 of 2017 with a whopping 192.7.',
+               'Josh set the record for most points in a week in week 9 of 2018 with a whopping 202.7.',
                'The best Monday Night Miracle in league history came in week 8 of 2016 when Adam entered Monday night trailing Devon by 43.8 points and won. Good job Devon you incompetent fuck.',
                'Cody reclaimed the record for most bench points in a loss at 89 in week 4 of 2018 after not holding it for only 1 week. Talk about mismanagement!',
                'Jahlani and Kendall share the record for most touchdowns in a week at 12.',
