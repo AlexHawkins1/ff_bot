@@ -174,7 +174,7 @@ def random_phrase():
                'Kendall\'s team name is \'Big TD Commitee\' and no one knows why.',
                ##Non-Stat(ish) things that will change
                'Jamie is the only person to have won both The Deyton and The Spooby Shitter.',
-               'Devon currently holds the record for longest active streak with the same team name at 4 season (Morningwood Lumber Company). It\'s a dick joke.',
+               'Devon currently holds the record for longest active streak with the same team name at 4 seasons (Morningwood Lumber Company). It\'s a dick joke.',
                ##Statistical records that may change
                'No team has won the \'Fab Five\' award for QB, RB, RB, WR, & WR slots all scoring at least 20 points each',
                'Jamie currently holds the record for fewest point in a season at 1222.1(2017). Ouch!',
@@ -184,7 +184,7 @@ def random_phrase():
                'Josh set the record for most points in a week in week 9 of 2018 with a whopping 202.7.',
                'The best Monday Night Miracle in league history came in week 8 of 2016 when Adam entered Monday night trailing Devon by 43.8 points and won. Good job Devon you incompetent fuck.',
                'Cody reclaimed the record for most bench points in a loss at 89 in week 4 of 2018 after not holding it for only 1 week. Talk about mismanagement!',
-               'Jahlani and Kendall share the record for most touchdowns in a week at 12.',
+               'Jahlani, Kendall (twice), and Josh share the record for most touchdowns in a week at 12.',
                'Cody(2017) and Hunter(2015) are tied for worst regular season in league history finishing 3-10.',
                ############# No New Facts Below This Line ##########################
                'Adam set the record for most points in a season while missing the playoffs at a staggering 1643.9 earning him the Collin J Hennessey Sodium Chloride Award.'
