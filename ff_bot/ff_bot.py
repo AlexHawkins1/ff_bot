@@ -158,10 +158,10 @@ def random_phrase():
                     'Jamie is 3-0 in the regular season against Kendall.',
                     'Kendall is 2-0 in the post season against Jamie.',
                     ##Alex and Devon
-                    'Alex leads Devon head-to-head 5-2 in the moder era.',
-                    'Alex leads Devon head-to-head 1-0 since becoming an official rivalry',
-                    'Alex has defeated Devon in five straight matchups.',
-                    'Alex leads Devon in scoring in their head-to-head matchups 947.4 - 838.5.',
+                    'Alex leads Devon head-to-head 6-2 in the modern era.',
+                    'Alex leads Devon head-to-head 2-0 since becoming an official rivalry',
+                    'Alex has defeated Devon in six straight matchups.',
+                    'Alex leads Devon in scoring in their head-to-head matchups 1,105.7 - 946.4.',
                     ##Cody and Jamie
                     'In 2016 Cody lost a team name bet to Jamie and his franchise was renamed \'Cody Jinnette D.M.D\'.',
                     'Jamie and Cody are tied head-to-head at 5-5.',
