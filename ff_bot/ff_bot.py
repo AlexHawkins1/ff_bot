@@ -137,6 +137,8 @@ def random_phrase():
                'Boof won the West in 2016 with a 10-3 record.',
                'Alex won the East in 2017 with a 10-3 record.',
                'Adam won the West in 2017 with a 9-4 record.',
+               'Alex won the East in 2018 with a 9-4 record.',
+               'Adam won the West in 2017 with a 9-4 record.',
                ##Things that wont change
                'Josh opened the 2017 season with a bang by setting the (at the time) league record in points in a single week at 181.3 only to be beaten in week 12 of that season by Keller. Josh would reclaim the scoring title in the next season with a whopping 202.7.',
                'Colin was removed from the Sweater Vest League for winning a championship in 2016.',
@@ -185,9 +187,9 @@ def random_phrase():
                'The best Monday Night Miracle in league history came in week 8 of 2016 when Adam entered Monday night trailing Devon by 43.8 points and won. Good job Devon you incompetent fuck.',
                'Cody reclaimed the record for most bench points in a loss at 89 in week 4 of 2018 after not holding it for only 1 week. Talk about mismanagement!',
                'Jahlani, Kendall (twice), and Josh share the record for most touchdowns in a week at 12.',
-               'Cody(2017) and Hunter(2015) are tied for worst regular season in league history finishing 3-10.',
+               'Devon(2018) holds the record for worst regular season in league history finishing 2-11.',
                ############# No New Facts Below This Line ##########################
-               'Adam set the record for most points in a season while missing the playoffs at a staggering 1643.9 earning him the Collin J Hennessey Sodium Chloride Award.'
+               'Kendall set the record for most points in a season while missing the playoffs in 2018 at a staggering 1699.2 earning her the Collin J Hennessey Sodium Chloride Award.'
                ]
 
     text = [random.choice(phrases)]
